@@ -24,23 +24,23 @@
  Streamlit
 
 ## Steps to Run the Project
- 1. Clone the Repository
- ->Clone the repository to your local machine and navigate to the project folder.
+1. Clone the Repository
+->Clone the repository to your local machine and navigate to the project folder.
 
- 2. Set Up Virtual Environment (Optional)
- ->It's recommended to create a virtual environment for package management.
+2. Set Up Virtual Environment (Optional)
+->It's recommended to create a virtual environment for package management.
 
- 3. Install Dependencies
- ->Install the required Python libraries using the pip install command.
+3. Install Dependencies
+->Install the required Python libraries using the pip install command.
 
- 4.Run the Script to Generate the Pickle File
- ->Run the script to generate the model.pkl file. This step only needs to be done once.
+4.Run the Script to Generate the Pickle File
+->Run the script to generate the model.pkl file. This step only needs to be done once.
 
- 5. Run the Streamlit App
- ->After the Pickle file is generated, use Streamlit to launch the app.
+5. Run the Streamlit App
+->After the Pickle file is generated, use Streamlit to launch the app.
 
- 6. Access the App
- ->Open http://localhost:8501 in your web browser to interact with the recommendation system.
+6. Access the App
+->Open http://localhost:8501 in your web browser to interact with the recommendation system.
 
 ## License
  This project is licensed under the MIT License - see the LICENSE file for details.
